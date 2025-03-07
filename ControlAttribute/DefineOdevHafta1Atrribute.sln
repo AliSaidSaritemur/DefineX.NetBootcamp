@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefineOdevHafta1Atrribute", "DefineOdevHafta1Atrribute\DefineOdevHafta1Atrribute.csproj", "{3E5D93CE-8607-4385-BE67-75DF3AA54912}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Denetim", "Denetim\Denetim.csproj", "{BD8FA767-A4A8-48DC-8508-C96B6400AA39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E5D93CE-8607-4385-BE67-75DF3AA54912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E5D93CE-8607-4385-BE67-75DF3AA54912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E5D93CE-8607-4385-BE67-75DF3AA54912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E5D93CE-8607-4385-BE67-75DF3AA54912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8FA767-A4A8-48DC-8508-C96B6400AA39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8FA767-A4A8-48DC-8508-C96B6400AA39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8FA767-A4A8-48DC-8508-C96B6400AA39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8FA767-A4A8-48DC-8508-C96B6400AA39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

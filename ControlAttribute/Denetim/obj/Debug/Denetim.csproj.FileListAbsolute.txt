@@ -1,0 +1,10 @@
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\bin\Debug\Denetim.dll
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\bin\Debug\Denetim.pdb
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\obj\Debug\Denetim.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\obj\Debug\Denetim.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\obj\Debug\Denetim.csproj.Up2Date
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\obj\Debug\Denetim.dll
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\DefineOdevHafta1Atrribute\Denetim\obj\Debug\Denetim.pdb
