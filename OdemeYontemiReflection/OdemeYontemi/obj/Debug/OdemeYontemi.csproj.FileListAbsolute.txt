@@ -1,0 +1,10 @@
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\bin\Debug\OdemeYontemi.exe.config
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\bin\Debug\OdemeYontemi.exe
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\bin\Debug\OdemeYontemi.pdb
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.csproj.AssemblyReference.cache
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.Form1.resources
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.Properties.Resources.resources
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.csproj.GenerateResource.cache
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.csproj.CoreCompileInputs.cache
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.exe
+C:\Users\alisa\Desktop\Düzenli\Yazılım\DefineX\Odevler\OdemeYontemi\OdemeYontemi\obj\Debug\OdemeYontemi.pdb
