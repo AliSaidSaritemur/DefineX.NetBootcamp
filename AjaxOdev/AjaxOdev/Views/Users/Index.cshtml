@@ -1,0 +1,45 @@
+﻿<input type="text" id="txtUrunAd" placeholder="Ara..." />
+<button onclick="EkranTemizle()">Temizle</button>
+<div id="sonuc"></div>
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    function EkranTemizle() {
+        $('#txtUrunAd').val(null);
+        $('#sonuc').html(null);
+        $('#txtUrunAd').focus();
+    }
+
+    $('#txtUrunAd').on('input', function () {
+        UrunBilgiGetir();
+    });
+
+    function UrunBilgiGetir() {
+        var qTextboxDeger = $('#txtUrunAd').val();
+
+        if (qTextboxDeger != '') {
+            $.ajax({
+                type: "POST",
+                url: "/Users/GetUsersByKey",
+                data: JSON.stringify({ qUrunAdi: qTextboxDeger }),
+                contentType: "application/json; charset=utf-8",
+                dataType: "json",
+                success: function (result) {
+                    $('#sonuc').html(''); // Önce içeriği temizle
+
+                    if (result.d == '') {
+                        $('#sonuc').html('Kayıt bulunamadı');
+                    } else {
+                        $.each(result.d, function (index, item) {
+                            $('#sonuc').append('<a href="#">' + item.adSoyad + '</a><br />');
+                        });
+                    }
+                },
+                error: function (jqXHR, textStatus, errorThrown) {
+                    alert("Hata: " + jqXHR.responseText);
+                }
+            });
+        } else {
+            $('#sonuc').html('');
+        }
+    }
+</script>
