@@ -1,0 +1,2108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326124702_imagesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326124702_imagesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326124239_ImagesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326124239_ImagesAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114341_VariantsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326114341_VariantsAdded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114157_entegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326114157_entegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114120_entegration9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326114120_entegration9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114058_entegration8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326114058_entegration8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114019_entegration6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326114019_entegration6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113940_entegration4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326113940_entegration4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113844_entegration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326113844_entegration2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113815_entegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.ProductAPI\\Migrations\\20250326113815_entegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\initializer\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.RazorAssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.RazorAssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefineX.Services.Identity\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\mainmodule\\device\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\mainmodule\\device\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\migrations\\20250315112434_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\migrations\\20250315112434_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\controllers\\cartapicheckoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\controllers\\cartapicheckoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\rabbitmqsender\\rabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\rabbitmqsender\\rabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\rabbitmqsender\\irabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\rabbitmqsender\\irabbitmqcartmessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\controllers\\cartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\definex.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\definex.services.shoppingcartapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\migrations\\20250316100715_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\migrations\\20250316100715_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\cartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\repository\\icartrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|solutionrelative:definex.messagebus\\basemessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFD20665-E742-4625-8A45-019BB4221E1A}|DefineX.MessageBus\\DefineX.MessageBus.csproj|solutionrelative:definex.messagebus\\imessagebus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\cartdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\cartheader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.shoppingcartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B829E828-804F-4DCA-9042-C6C027C9CC12}|DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj|solutionrelative:definex.services.shoppingcartapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\icouponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\couponservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\definex.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\definex.services.couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\repository\\couponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\repository\\icouponrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.productapi\\definex.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\definex.services.productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\definexweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\definexweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\ibaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\services\\profileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\initializer\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\cart\\confirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\cart\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\customer\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\customer\\views\\cart\\cartindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\services\\iservices\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\cartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\cartheaderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\cartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\cartdetaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_adminloginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\controllers\\yoneticicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\yonetici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\yonetici\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\yonetici\\git.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\yonetici\\git.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productdelete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\uploadimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\editimageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\apirequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definexweb\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\models\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\views\\account\\loggedout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\views\\account\\loggedout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|c:\\users\\alisa\\desktop\\definexmicroservicesornek\\definex.services.couponapi\\migrations\\20250316084410_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{295169DE-6C40-4F2A-92DA-DF76CF6F543B}|DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj|solutionrelative:definex.services.couponapi\\migrations\\20250316084410_databaseinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\dbcontexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:05:37.273Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250326124702_imagesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326124702_imagesAdded.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326124702_imagesAdded.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326124702_imagesAdded.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326124702_imagesAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:47:02.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\ProductImage.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:18:22.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:03:28.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Variant.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Variant.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Models\\Variant.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Variant.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Models\\Variant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:05:36.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\dto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:04:23.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAnwEkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:16:12.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250326124239_ImagesAdded.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326124239_ImagesAdded.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326124239_ImagesAdded.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326124239_ImagesAdded.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326124239_ImagesAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T12:42:39.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:07:28.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250326114341_VariantsAdded.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114341_VariantsAdded.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326114341_VariantsAdded.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114341_VariantsAdded.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326114341_VariantsAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:43:41.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250326114157_entegration.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114157_entegration.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326114157_entegration.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114157_entegration.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326114157_entegration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:41:57.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250326114120_entegration9.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114120_entegration9.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326114120_entegration9.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114120_entegration9.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326114120_entegration9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:41:20.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250326114058_entegration8.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114058_entegration8.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326114058_entegration8.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114058_entegration8.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326114058_entegration8.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:40:58.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250326114019_entegration6.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114019_entegration6.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326114019_entegration6.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326114019_entegration6.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326114019_entegration6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:40:19.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250326113940_entegration4.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113940_entegration4.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326113940_entegration4.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113940_entegration4.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326113940_entegration4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:39:40.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250326113844_entegration2.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113844_entegration2.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326113844_entegration2.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113844_entegration2.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326113844_entegration2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:38:44.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250326113815_entegration.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113815_entegration.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Migrations\\20250326113815_entegration.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Migrations\\20250326113815_entegration.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Migrations\\20250326113815_entegration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T11:38:15.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:04:42.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T09:09:41.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\Program.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T09:13:45.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": ".NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\obj\\Debug\\net8.0\\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:12:05.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DefineX.Services.Identity.RazorAssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.RazorAssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.RazorAssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.RazorAssemblyInfo.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.RazorAssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:12:07.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.Identity\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T11:13:06.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:33:34.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:12:08.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.101\\Sdks\\Microsoft.NET.Sdk.StaticWebAssets\\targets\\Microsoft.NET.Sdk.StaticWebAssets.Pack.targets",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAewJ8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-24T21:14:57.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DefineX.Services.Identity.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.AssemblyInfo.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\obj\\Debug\\net8.0\\DefineX.Services.Identity.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:12:03.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DeviceController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Device\\DeviceController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\MainModule\\Device\\DeviceController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Device\\DeviceController.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\MainModule\\Device\\DeviceController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAWwJEAAACEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:10:17.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:12:43.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAWwM0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:19:49.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:04:06.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T09:52:01.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:17:09.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250315112434_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Migrations\\20250315112434_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:24:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RabbitMQCartMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\RabbitMQCartMessageSender.cs",
+              "ViewState": "AgIAAAcAAACAMzMzM1M9wDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:50:36.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\ProductService.cs",
+              "ViewState": "AgIAACAAAABwMzMzM7MSwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:58:18.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\BaseService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAwAAACAMzMzMzMcwBoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:51:08.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAqwFMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:59:19.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPIController.cs",
+              "ViewState": "AgIAACsAAAAAlJmZmZkbwAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:55:44.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CartAPICheckOutController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Controllers\\CartAPICheckOutController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAcwE8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:00:51.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIA1wB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:54:02.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRabbitMQCartMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\RabbitMQSender\\IRabbitMQCartMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:49:42.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "DefineX.Services.ShoppingCartAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\DefineX.Services.ShoppingCartAPI.csproj",
+              "ViewState": "AgIAABAAAACAZmZmZiYswBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T09:30:38.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CouponDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CouponDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T11:28:56.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Program.cs",
+              "ViewState": "AgIAAA8AAACgmZmZmRkrwBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:53:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAA0AAABgAAAAAIAiwA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:42:49.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAABAzczMzAwjwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:42:21.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20250316100715_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Migrations\\20250316100715_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:07:15.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "CartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\CartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:04:45.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAAAsAAABwZmZmZmYjwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:05:36.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T10:00:02.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T09:52:46.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ICartRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Repository\\ICartRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:40:40.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "BaseMessage.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\BaseMessage.cs",
+              "RelativeDocumentMoniker": "DefineX.MessageBus\\BaseMessage.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\BaseMessage.cs",
+              "RelativeToolTip": "DefineX.MessageBus\\BaseMessage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:47:02.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IMessageBus.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\IMessageBus.cs",
+              "RelativeDocumentMoniker": "DefineX.MessageBus\\IMessageBus.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.MessageBus\\IMessageBus.cs",
+              "RelativeToolTip": "DefineX.MessageBus\\IMessageBus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:45:55.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:39:39.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:38:55.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:33:32.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "CartDetail.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\CartDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:33:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "CartHeader.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\CartHeader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:32:27.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "RelativeToolTip": "DefineX.Services.ShoppingCartAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAgAAACAMjMzMzMJwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:31:47.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
+              "RelativeToolTip": "DefineXWeb\\Program.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAEAlwD8AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:52:37.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA0AAADgAQAAAEAlwBUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:57.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "DefineXWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\appsettings.json",
+              "RelativeToolTip": "DefineXWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T11:46:37.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:55:52.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:51.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\SD.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\SD.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\SD.cs",
+              "RelativeToolTip": "DefineXWeb\\SD.cs",
+              "ViewState": "AgIAAAEAAADgmZmZmRkmwAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:46:16.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "ICouponService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\ICouponService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:40:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "CouponService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CouponService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\CouponService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CouponService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\CouponService.cs",
+              "ViewState": "AgIAAAoAAADAMzMzM7MQwBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:41:45.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAEAAACKmZmZmVkjwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-16T08:34:12.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABEAAABAZmZmZuYqwBUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:31:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Program.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Program.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Program.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAUwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:35:49.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAABQAAACg/////78swCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:38:54.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 128,
+              "Title": "20250316084410_databaseinit.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Migrations\\20250316084410_databaseinit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:44:10.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DefineX.Services.CouponAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-16T08:28:30.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "CouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Repository\\CouponRepository.cs",
+              "ViewState": "AgIAABEAAAAgMzMzM7M5wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:32:14.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\MappingConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:30:12.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ICouponRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Repository\\ICouponRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:28:48.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Models\\dto\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:28:00.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Models\\dto\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:27:25.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "RelativeToolTip": "DefineX.Services.CouponAPI\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:26:22.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IBaseService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\IBaseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:48:54.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "DefineXWeb.csproj",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\DefineXWeb.csproj",
+              "RelativeDocumentMoniker": "DefineXWeb\\DefineXWeb.csproj",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\DefineXWeb.csproj",
+              "RelativeToolTip": "DefineXWeb\\DefineXWeb.csproj",
+              "ViewState": "AgIAABUAAAAANDMzM7MuwBgAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T11:46:06.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "DefineX.Services.ProductAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "RelativeToolTip": "DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T09:03:45.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "SD.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\SD.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:14:47.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineXWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineXWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAoAAAA4m5mZmZkewBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T12:00:24.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "ProfileService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Services\\ProfileService.cs",
+              "ViewState": "AgIAADQAAACAAAAAAEAswAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:14:06.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAABAMzMzM3MvwBoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:53.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T02:24:28.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T02:24:34.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:19:44.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAgAAAAgMzMzM/MmwBMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:46:58.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "IDbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Initializer\\IDbInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:11:54.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "DefineX.Services.Identity\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAZmZmZqYowBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T11:21:41.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-16T02:18:00.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:52:08.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:02:02.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:02:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:02:00.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "Confirmation.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Confirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:47.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\Checkout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:40.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "CartIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Customer\\Views\\Cart\\CartIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T13:01:24.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\CartService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\CartService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:57:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "CartDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CartDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CartDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:57:02.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 104,
+              "Title": "CartHeaderDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartHeaderDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CartHeaderDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartHeaderDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CartHeaderDto.cs",
+              "ViewState": "AgIAAAkAAAAQAAAAAGA3wBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:56:26.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 105,
+              "Title": "CartDetailDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDetailDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\CartDetailDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\CartDetailDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\CartDetailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:56:15.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "RelativeToolTip": "DefineXWeb\\Services\\IServices\\ICartService.cs",
+              "ViewState": "AgIAAAcAAAAwMzMzM/M2wAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:55:05.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 106,
+              "Title": "_AdminLoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
+              "ViewState": "AgIAAAUAAAAgNDMzM3MvwCEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:51:02.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 109,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:44:32.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 108,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACoAAAAALzMzMzMgwG0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:12:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 107,
+              "Title": "YoneticiController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\YoneticiController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:10:36.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 110,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:30.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 111,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:05.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 112,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:02.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 113,
+              "Title": "Git.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Yonetici\\Git.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:40:00.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 114,
+              "Title": "ProductIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:43:38.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 115,
+              "Title": "ProductEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:41.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 116,
+              "Title": "ProductDelete.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:40.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 117,
+              "Title": "ProductCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T12:39:38.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 119,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "DefineXWeb\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAgAAACAz8zMzMwDwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:20:25.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 120,
+              "Title": "EditImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "RelativeToolTip": "DefineXWeb\\ViewModels\\EditImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:14:38.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 118,
+              "Title": "UploadImageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "RelativeToolTip": "DefineXWeb\\ViewModels\\UploadImageViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T12:13:47.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 121,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "DefineXWeb\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "DefineXWeb\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-03-15T12:08:02.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 123,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ProductDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ProductDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\ProductDto.cs",
+              "ViewState": "AgIAAA8AAADAmZmZmVkwwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:53:11.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 122,
+              "Title": "ApiRequest.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ApiRequest.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\ApiRequest.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ApiRequest.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\ApiRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:44:19.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 124,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "DefineXWeb\\Models\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineXWeb\\Models\\ResponseDto.cs",
+              "RelativeToolTip": "DefineXWeb\\Models\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:47:27.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 125,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAEAAADgzMzMzMwnwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:20:39.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 126,
+              "Title": "LoggedOut.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "RelativeToolTip": "DefineX.Services.Identity\\Views\\Account\\LoggedOut.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T11:19:47.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 127,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:10:59.889Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
