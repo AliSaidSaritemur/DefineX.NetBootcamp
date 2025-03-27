@@ -347,9 +347,9 @@ export default {
    methods: {
         productsArray: async function () {
               await this.fetchProducts();
-          console.log("veriler "+this.getCompletedProducts+   "VEri yok galiba");
+
   this.getCompletedProducts.map((item) => {
-     console.log("Girdi "+ item.collection.length);
+
     this.products.push(item);
     item.collection.map((i) => {
       const index = this.category.indexOf(i);

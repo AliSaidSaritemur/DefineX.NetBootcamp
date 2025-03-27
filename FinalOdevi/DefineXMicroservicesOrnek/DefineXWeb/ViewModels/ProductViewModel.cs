@@ -2,9 +2,9 @@
 
 namespace DefineXWeb.ViewModels
 {
-    public class ProductViewModel : EditImageViewModel
+    public class ProductViewModel 
     {
-        public int id { get; set; }
+        public int id { get; set; } 
         public string Tittle { get; set; }
         public string Description { get; set; }
         public string Type { get; set; }

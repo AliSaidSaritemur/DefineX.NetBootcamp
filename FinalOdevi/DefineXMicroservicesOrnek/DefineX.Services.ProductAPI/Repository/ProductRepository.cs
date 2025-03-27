@@ -12,7 +12,7 @@ namespace DefineX.Services.ProductAPI.Repository
         private readonly ApplicationDbContext _db;
         private IMapper _mapper;
 
-        //Constructor Injection 
+
         public ProductRepository(ApplicationDbContext db, IMapper mapper)
         {
             _db = db;
@@ -21,12 +21,16 @@ namespace DefineX.Services.ProductAPI.Repository
 
         public async Task<ProductDto> CreateUpdateProduct(ProductDto productDto)
         {
-
+      
             Product product = _mapper.Map<ProductDto, Product>(productDto);
-            //gelen ProductDto nun içindeki ProductId 0 dan büyük ise güncelleme yapılacak
+        
             if (product.id > 0)
             {
                 _db.Products.Update(product);
+                ImageUpdate(productDto.Images[0]);
+                ImageUpdate(productDto.Images[1]);
+                VariantUpdate(productDto.Variants[0]);
+                VariantUpdate(productDto.Variants[1]);
             }
             else
             {
@@ -60,9 +64,26 @@ namespace DefineX.Services.ProductAPI.Repository
    
             }
             await _db.SaveChangesAsync();
-            //kayıt eklendikten sonra databaseden eklenen product objesi geriye produtcDto olarak döndürülür
+
             return productDto;
         }
+
+
+        public void ImageUpdate(ProductImage productImage)
+        {
+            ProductImage oldVersionImage = _db.Images.FirstOrDefault(p => p.image_id == productImage.image_id);
+            oldVersionImage.alt = productImage.alt;
+            _db.Images.Update(oldVersionImage);
+        }
+        public Variant VariantUpdate(Variant variant)
+        {
+            Variant oldVersionVariant = _db.Variants.FirstOrDefault(p => p.variant_id == variant.variant_id);
+            oldVersionVariant.sku = variant.sku;
+            oldVersionVariant.color = variant.color;
+            _db.Variants.Update(oldVersionVariant);
+            return oldVersionVariant;
+        }
+
 
         public async Task<bool> DeleteProduct(int productId)
         {
