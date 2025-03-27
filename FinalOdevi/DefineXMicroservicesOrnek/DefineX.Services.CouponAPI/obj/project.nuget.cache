@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eZXxqfCPozo=",
+  "dgSpecHash": "VmK/M4scTr8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
+  "projectFilePath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.CouponAPI\\DefineX.Services.CouponAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alisa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

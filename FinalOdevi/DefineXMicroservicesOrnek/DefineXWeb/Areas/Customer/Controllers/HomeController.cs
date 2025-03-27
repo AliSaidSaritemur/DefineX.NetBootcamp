@@ -63,11 +63,10 @@ namespace DefineXWeb.Areas.Customer.Controllers
 
             CartDetailsDto cartDetails = new CartDetailsDto()
             {
-                Count = productDto.Count,
-                ProductId = productDto.ProductId
+                ProductId = productDto.id
             };
 
-            var resp = await _productService.GetProductByIdAsync<ResponseDto>(productDto.ProductId, "");
+            var resp = await _productService.GetProductByIdAsync<ResponseDto>(productDto.id, "");
             if (resp != null && resp.IsSuccess)
             {
                 cartDetails.Product = JsonConvert.DeserializeObject<ProductDto>(Convert.ToString(resp.Result));

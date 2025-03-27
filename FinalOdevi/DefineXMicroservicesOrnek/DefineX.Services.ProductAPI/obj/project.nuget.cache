@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KUMbMYG7kIY=",
+  "dgSpecHash": "sjAFxNphhT8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\alisa\\Desktop\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
+  "projectFilePath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\alisa\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\alisa\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

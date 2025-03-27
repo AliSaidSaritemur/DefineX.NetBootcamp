@@ -2,6 +2,7 @@ using DefineXWeb.Services.IServices;
 using DefineXWeb.Services;
 using Microsoft.AspNetCore.Authentication;
 using DefineXWeb;
+using Microsoft.AspNetCore.Http.Features;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +15,10 @@ SD.CouponAPIBase = builder.Configuration["ServiceUrls:CouponAPI"];
 
 builder.Services.AddScoped<ICartService, CartService>();
 builder.Services.AddScoped<ICouponService, CouponService>();
-
+builder.Services.Configure<FormOptions>(options =>
+{
+    options.MultipartBodyLengthLimit = 500 * 1024 * 1024; 
+});
 builder.Services.AddScoped<IProductService, ProductService>();
 builder.Services.AddControllersWithViews();
 

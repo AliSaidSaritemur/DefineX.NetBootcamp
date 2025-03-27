@@ -60,6 +60,7 @@ namespace DefineX.Services.ProductAPI.Controllers
             try
             {
                 ProductDto model = await _productRepository.CreateUpdateProduct(productDto);
+                
                 _response.Result = model;
             }
             catch (Exception ex)

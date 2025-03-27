@@ -234,6 +234,7 @@ namespace IdentityServerHost.Quickstart.UI
         public async Task<IActionResult> Register(RegisterViewModel model, string returnUrl = null)
         {
             ViewData["ReturnUrl"] = returnUrl;
+            ModelState.Remove("ExternalLoginScheme");
             if (ModelState.IsValid)
             {
 

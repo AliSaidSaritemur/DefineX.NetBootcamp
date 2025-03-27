@@ -14,9 +14,11 @@ namespace DefineX.Services.ProductAPI.dto
         public string[] Collection { get; set; }
         public double Price { get; set; }
         public string[] Tags { get; set; }
-        public bool IsHot { get; set; } 
-        public string Discount { get; set; } 
-        public bool IsNew { get; set; }
+ 
+        public bool IsHot { get; set; } = false;
+        public string Discount { get; set; } = "0%";
+        public bool IsNew { get; set; } = true;
+       
         public Variant[] Variants { get; set; }
         public ProductImage[] Images { get; set; }
     }

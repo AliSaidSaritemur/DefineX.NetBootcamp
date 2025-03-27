@@ -1,45 +1,115 @@
 ﻿@model DefineXWeb.ViewModels.ProductViewModel
 
-<h4>ProductDto</h4>
+<h4>Create Product</h4>
 <hr />
 <div class="row">
-    <div class="col-md-4">
-        <form asp-action="ProductCreate" enctype="multipart/form-data">
+    <div class="col-md-6">
+        <form asp-action="ProductCreate" method="post" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
             <div class="form-group">
-                <label asp-for="Name" class="control-label"></label>
-                <input asp-for="Name" class="form-control" />
-                <span asp-validation-for="Name" class="text-danger"></span>
+                <label asp-for="Tittle" class="control-label"></label>
+                <input asp-for="Tittle" class="form-control" />
+                <span asp-validation-for="Tittle" class="text-danger"></span>
             </div>
-            <div class="form-group">
-                <label asp-for="Price" class="control-label"></label>
-                <input asp-for="Price" class="form-control" />
-                <span asp-validation-for="Price" class="text-danger"></span>
-            </div>
+
             <div class="form-group">
                 <label asp-for="Description" class="control-label"></label>
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <label asp-for="ProductPicture" class="control-label"></label>
-                <div class="custom-file">
-                    <input asp-for="ProductPicture" class="custom-file-input" />
-                    <label class="custom-file-label" for="customFile">Dosya Seç</label>
-                </div>
-                <span asp-validation-for="ProductPicture" class="text-danger"></span>
+                <label asp-for="Type" class="control-label"></label>
+                <input asp-for="Type" class="form-control" />
+                <span asp-validation-for="Type" class="text-danger"></span>
             </div>
+
+            <div class="form-group">
+                <label asp-for="Brand" class="control-label"></label>
+                <input asp-for="Brand" class="form-control" />
+                <span asp-validation-for="Brand" class="text-danger"></span>
+            </div>
+
             <div class="form-group">
                 <label asp-for="CategoryName" class="control-label"></label>
                 <input asp-for="CategoryName" class="form-control" />
                 <span asp-validation-for="CategoryName" class="text-danger"></span>
             </div>
+
             <div class="form-group">
-                <label asp-for="Count" class="control-label"></label>
-                <input asp-for="Count" class="form-control" />
-                <span asp-validation-for="Count" class="text-danger"></span>
+                <label asp-for="Collection" class="control-label">Collection (Comma Separated)</label>
+                <input type="text" id="CollectionInput" class="form-control" />
+                <input type="hidden" asp-for="Collection" id="CollectionHidden" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Tags" class="control-label">Tags (Comma Separated)</label>
+                <input type="text" id="TagsInput" class="form-control" />
+                <input type="hidden" asp-for="Tags" id="TagsHidden" />
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" type="number" step="0.01" />
+                <span asp-validation-for="Price" class="text-danger"></span>
             </div>
             <div class="form-group">
+                <label asp-for="Discount" class="control-label"></label>
+                <input asp-for="Discount" class="form-control" />
+                <span asp-validation-for="Discount" class="text-danger"></span>
+            </div>
+
+            <h5>Product Variants</h5>
+            <div id="variantsContainer">
+                <div class="form-group variant-item">
+                    <label>SKU</label>
+                    <input type="text" name="Variants[0].Sku" class="form-control" />
+
+                    <label>Color</label>
+                    <input type="text" name="Variants[0].Color" class="form-control" />
+                </div>
+            </div>
+            <h5>Product Images</h5>
+            <div id="imagesContainer">
+                <div class="form-group image-item">
+                    <label>Alt Text</label>
+                    <input type="text" name="Images[0].Alt" class="form-control" />
+
+                    <label>Upload Image</label>
+                    <input type="file" name="Images[0].ImageFile" class="form-control" id="uploadPicture" />
+                    @* <input type="file"  class="form-control" id="uploadPicture1" /> *@
+                </div>
+            </div>
+          @*   <button type="button" id="addImage" class="btn btn-secondary mt-2">Add Image</button> *@
+
+
+            <h5>Product Variants2</h5>
+            <div id="variantsContainer">
+                <div class="form-group variant-item">
+                    <label>SKU</label>
+                    <input type="text" name="Variants[1].Sku" class="form-control" />
+
+                    <label>Color</label>
+
+                    <input type="text" name="Variants[1].Color" class="form-control" />
+                </div>
+            </div>
+           @*  <button type="button" id="addVariant" class="btn btn-secondary mt-2">Add Variant</button> *@
+            <h5>Product Images2</h5>
+            <div id="imagesContainer">
+                <div class="form-group image-item">
+                    <label>Alt Text</label>
+                    <input type="text" name="Images[1].Alt" class="form-control" />
+
+                    <label>Upload Image</label>
+                    <input type="file" name="Images[1].ImageFile" class="form-control" id="uploadPicture" />
+                </div>
+            </div>
+            @*   <button type="button" id="addImage" class="btn btn-secondary mt-2">Add Image</button> *@
+
+           
+            <div class="form-group mt-3">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>
         </form>
@@ -49,8 +119,14 @@
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
+
 @section Scripts {
     <partial name="_ValidationScriptsPartial" />
+    <script>
+      
+        document.querySelector("form").addEventListener("submit", function () {
+            document.getElementById("CollectionHidden").value = document.getElementById("CollectionInput").value.split(",").map(item => item.trim());
+            document.getElementById("TagsHidden").value = document.getElementById("TagsInput").value.split(",").map(item => item.trim());
+        });
+    </script>
 }
-
-
