@@ -32,7 +32,10 @@ namespace DefineX.Services.Identity
                     ClientId="client",
                     ClientSecrets= { new Secret("secret".Sha256())},
                     AllowedGrantTypes = GrantTypes.ClientCredentials,
-                    AllowedScopes={ "read", "write","profile"}
+                    AllowedScopes={ "read", "write","profile"},
+                    AccessTokenLifetime = 3600,
+                RefreshTokenExpiration = TokenExpiration.Absolute,
+                AbsoluteRefreshTokenLifetime = 2592000
                 },
                 new Client
                 {
@@ -47,7 +50,9 @@ namespace DefineX.Services.Identity
                         IdentityServerConstants.StandardScopes.Profile,
                         IdentityServerConstants.StandardScopes.Email,
                         "DefineX"
-                    }
+                    }, AccessTokenLifetime = 3600, 
+                RefreshTokenExpiration = TokenExpiration.Absolute,
+                AbsoluteRefreshTokenLifetime = 2592000 
                 },
             };
     }

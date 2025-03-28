@@ -24,10 +24,14 @@ namespace DefineXWeb.Areas.Customer.Controllers
             _productService = productService;
         }
 
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index( )
         {
-            
-            List<ProductDto> list = new();
+            if (User.Identity.IsAuthenticated&& User.IsInRole("Admin"))
+            {
+                return RedirectToAction("ProductIndex", "Product", new { area = "Admin" }); 
+            }
+
+        List<ProductDto> list = new();
             var response = await _productService.GetAllProductsAsync<ResponseDto>("");
             if (response != null && response.IsSuccess)
             {
