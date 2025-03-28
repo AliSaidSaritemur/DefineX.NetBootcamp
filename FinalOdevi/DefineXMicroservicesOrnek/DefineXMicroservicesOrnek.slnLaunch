@@ -3,6 +3,10 @@
     "Name": "New Profile",
     "Projects": [
       {
+        "Path": "SignalRChat-master\\SignalRChat.csproj",
+        "Action": "Start"
+      },
+      {
         "Path": "DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj",
         "Action": "Start"
       },
@@ -12,10 +16,6 @@
       },
       {
         "Path": "DefineXWeb\\DefineXWeb.csproj",
-        "Action": "Start"
-      },
-      {
-        "Path": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj",
         "Action": "Start"
       }
     ]

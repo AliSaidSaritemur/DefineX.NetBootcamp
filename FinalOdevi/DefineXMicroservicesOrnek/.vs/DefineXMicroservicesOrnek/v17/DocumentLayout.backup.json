@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\signalrchat-master\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|solutionrelative:signalrchat-master\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\signalrchat-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|solutionrelative:signalrchat-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\signalrchat-master\\signalrchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD6037EB-51A4-4B96-A432-C81F9206C7BC}|SignalRChat-master\\SignalRChat.csproj|solutionrelative:signalrchat-master\\signalrchat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -82,11 +94,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\SignalRChat-master\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SignalRChat-master\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\SignalRChat-master\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SignalRChat-master\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T12:11:42.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\SignalRChat-master\\appsettings.json",
+              "RelativeDocumentMoniker": "SignalRChat-master\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\SignalRChat-master\\appsettings.json",
+              "RelativeToolTip": "SignalRChat-master\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-28T12:11:37.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignalRChat",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\SignalRChat-master\\SignalRChat.csproj",
+              "RelativeDocumentMoniker": "SignalRChat-master\\SignalRChat.csproj",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\SignalRChat-master\\SignalRChat.csproj",
+              "RelativeToolTip": "SignalRChat-master\\SignalRChat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T12:11:33.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
@@ -94,12 +145,11 @@
               "RelativeToolTip": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:55:49.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:55:49.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
@@ -107,12 +157,11 @@
               "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAA0AAAAAAAAAAAAewBUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:42:56.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:42:56.831Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\SD.cs",
@@ -124,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
@@ -136,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
@@ -148,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
@@ -161,7 +210,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_AdminLoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
@@ -173,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
@@ -185,7 +234,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ProductCreate.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
@@ -197,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Controllers\\HomeController.cs",
@@ -209,7 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Home\\Index.cshtml",
@@ -221,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\Program.cs",
@@ -233,7 +282,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ProductAPIController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
               "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
@@ -246,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
@@ -258,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Services\\ProductService.cs",
@@ -271,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
@@ -283,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -295,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Program.cs",
