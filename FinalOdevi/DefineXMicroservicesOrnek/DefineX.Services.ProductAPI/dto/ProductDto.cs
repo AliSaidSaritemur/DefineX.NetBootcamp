@@ -6,7 +6,7 @@ namespace DefineX.Services.ProductAPI.dto
     public class ProductDto
     {
         public int id { get; set; }
-        public string Tittle { get; set; }
+        public string Title { get; set; }
         public string Description { get; set; }
         public string Type { get; set; }
         public string Brand { get; set; }

@@ -10,6 +10,8 @@ namespace DefineX.Services.ProductAPI.Models
         public int id { get; set; }
         public string sku { get; set; }
         public string color { get; set; }
+        public string size { get; set; }
         public int image_id { get; set; }
+        
     }
 }

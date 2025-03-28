@@ -212,7 +212,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "tittle": {
+          "title": {
             "type": "string",
             "nullable": true
           },
@@ -303,10 +303,6 @@
               "format": "int32"
             },
             "nullable": true
-          },
-          "base64": {
-            "type": "string",
-            "nullable": true
           }
         },
         "additionalProperties": false
@@ -327,6 +323,10 @@
             "nullable": true
           },
           "color": {
+            "type": "string",
+            "nullable": true
+          },
+          "size": {
             "type": "string",
             "nullable": true
           },

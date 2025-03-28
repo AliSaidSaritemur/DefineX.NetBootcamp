@@ -49,14 +49,13 @@ namespace DefineX.Services.ProductAPI.Repository
                     productDto.Images[i].id = productId;
                     productDto.Images[i].variant_id = new int[] { variantId };
                     productDto.Images[i].src = "";
-                    productDto.Images[i].base64= "";
-                    _db.Images.Add(productDto.Images[i]);
+                    _db.ProductImages.Add(productDto.Images[i]);
                     _db.SaveChanges(); 
 
                     int imageId = productDto.Images[i].image_id;
                     productDto.Variants[i].image_id = imageId;
                     productDto.Images[i].src = productDto.Images[i].image_id+".png";
-                    _db.Images.Update(productDto.Images[i]);
+                    _db.ProductImages.Update(productDto.Images[i]);
                     _db.Variants.Update(productDto.Variants[i]);
                     _db.SaveChanges();
                 }
@@ -71,15 +70,16 @@ namespace DefineX.Services.ProductAPI.Repository
 
         public void ImageUpdate(ProductImage productImage)
         {
-            ProductImage oldVersionImage = _db.Images.FirstOrDefault(p => p.image_id == productImage.image_id);
+            ProductImage oldVersionImage = _db.ProductImages.FirstOrDefault(p => p.image_id == productImage.image_id);
             oldVersionImage.alt = productImage.alt;
-            _db.Images.Update(oldVersionImage);
+            _db.ProductImages.Update(oldVersionImage);
         }
         public Variant VariantUpdate(Variant variant)
         {
             Variant oldVersionVariant = _db.Variants.FirstOrDefault(p => p.variant_id == variant.variant_id);
             oldVersionVariant.sku = variant.sku;
             oldVersionVariant.color = variant.color;
+            oldVersionVariant.size = variant.size;
             _db.Variants.Update(oldVersionVariant);
             return oldVersionVariant;
         }
@@ -90,14 +90,14 @@ namespace DefineX.Services.ProductAPI.Repository
             try
             {
                 Product product = await _db.Products.FirstOrDefaultAsync(u => u.id == productId);
-                var productsToDeleteImage = await _db.Images.Where(u => u.id == productId).ToListAsync();
+                var productsToDeleteImage = await _db.ProductImages.Where(u => u.id == productId).ToListAsync();
                 var productsToDeleteVariants = await _db.Variants.Where(u => u.id == productId).ToListAsync();
                 if (product == null)
                 {
                     return false;
                 }
                 _db.Products.Remove(product); //delete from Product where Id=productId
-                _db.Images.RemoveRange(productsToDeleteImage);
+                _db.ProductImages.RemoveRange(productsToDeleteImage);
                 _db.Variants.RemoveRange(productsToDeleteVariants);
                 await _db.SaveChangesAsync();
                 return true;
@@ -117,7 +117,7 @@ namespace DefineX.Services.ProductAPI.Repository
         .Select(p => new ProductDto
         {
             id = p.id,
-            Tittle = p.Tittle,
+            Title = p.Title,
             Description = p.Description,
             Type = p.Type,
             Brand = p.Brand,
@@ -129,7 +129,7 @@ namespace DefineX.Services.ProductAPI.Repository
             Discount = p.discount,
             IsNew = p.IsNew,
             Variants = _db.Variants.Where(v => v.id == p.id).ToArray(),
-            Images = _db.Images.Where(i => i.id == p.id).ToArray()
+            Images = _db.ProductImages.Where(i => i.id == p.id).ToArray()
         })
         .FirstOrDefaultAsync();
 
@@ -142,7 +142,7 @@ namespace DefineX.Services.ProductAPI.Repository
             .Select(p => new ProductDto
             {
                 id = p.id,
-                Tittle = p.Tittle,
+                Title = p.Title,
                 Description = p.Description,
                 Type = p.Type,
                 Brand = p.Brand,
@@ -154,7 +154,7 @@ namespace DefineX.Services.ProductAPI.Repository
                 Discount = p.discount,
                 IsNew = p.IsNew,
                 Variants = _db.Variants.Where(v => v.id == p.id).ToArray(),
-                Images = _db.Images.Where(i => i.id == p.id).ToArray()
+                Images = _db.ProductImages.Where(i => i.id == p.id).ToArray()
             }).ToListAsync();
             return _mapper.Map<List<ProductDto>>(productDtoList);
         }

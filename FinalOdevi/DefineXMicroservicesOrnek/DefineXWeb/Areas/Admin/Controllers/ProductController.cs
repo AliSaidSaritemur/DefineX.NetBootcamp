@@ -47,7 +47,7 @@ namespace DefineXWeb.Areas.Admin.Controllers
        
             ProductDto productDto = new ProductDto
             {
-                Tittle = model.Tittle,
+                Title = model.Title,
                 Description = model.Description,
                 Type = model.Type,
                 Brand = model.Brand,
@@ -83,22 +83,19 @@ namespace DefineXWeb.Areas.Admin.Controllers
         {
             string targetDir = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).FullName, @"..\andshop-vue\assets\img\product-image");
 
-            // Yolu tam hale getirin
+  
             string finalPath = Path.GetFullPath(targetDir);
 
-            // Eğer klasör yoksa, oluşturun
+
             if (!Directory.Exists(finalPath))
             {
                 Directory.CreateDirectory(finalPath);
             }
 
-            // Dosya adını belirleyin (örneğin, image_id.png)
             string fileName = imageId+".png";
 
-            // Tam dosya yolu
             string filePath = Path.Combine(finalPath, fileName);
 
-            // Dosyayı hedef dizine kaydedin
             using (var stream = new FileStream(filePath, FileMode.Create))
             {
                 await imageFile.CopyToAsync(stream);
@@ -119,7 +116,7 @@ namespace DefineXWeb.Areas.Admin.Controllers
                 ProductViewModel productViewModel = new ProductViewModel
                 {
                     id = model.id,
-                    Tittle = model.Tittle,
+                    Title = model.Title,
                     Description = model.Description,
                     Type = model.Type,
                     Brand = model.Brand,
@@ -153,7 +150,7 @@ namespace DefineXWeb.Areas.Admin.Controllers
                 ProductDto productDto = new ProductDto
                 {
                     id = model.id,
-                    Tittle = model.Tittle,
+                    Title = model.Title,
                     Description = model.Description,
                     Type = model.Type,
                     Brand = model.Brand,
@@ -204,9 +201,6 @@ namespace DefineXWeb.Areas.Admin.Controllers
             if (silinecekUrun != null && silinecekUrun.IsSuccess)
             {
                 ProductDto silinecekProductDto = JsonConvert.DeserializeObject<ProductDto>(Convert.ToString(silinecekUrun.Result));
-
-                //string filePath = Path.Combine(_environment.WebRootPath, "Uploads", silinecekProductDto.ImageUrl);
-                //System.IO.File.Delete(filePath);
             }
             var response = await _productService.DeleteProductAsync<ResponseDto>(productId, accessToken);
             if (response.IsSuccess)
@@ -227,22 +221,22 @@ namespace DefineXWeb.Areas.Admin.Controllers
             {
                 string targetDir = Path.Combine(Directory.GetParent(Directory.GetCurrentDirectory()).FullName, @"..\andshop-vue\assets\img\product-image");
 
-                // Yolu tam hale getir
+
                 string finalPath = Path.GetFullPath(targetDir);
 
-                // Dosya adını belirle
+
                 string fileName = imageId + ".png";
 
-                // Tam dosya yolu
+
                 string filePath = Path.Combine(finalPath, fileName);
 
-                // Dosyanın var olup olmadığını kontrol et
+    
                 if (System.IO.File.Exists(filePath))
                 {
                     System.IO.File.Delete(filePath);
-                    return ; // Başarıyla silindi
+                    return ; 
                 }
-                return ; // Dosya bulunamadı
+                return ; 
             }
             catch (Exception ex)
             {

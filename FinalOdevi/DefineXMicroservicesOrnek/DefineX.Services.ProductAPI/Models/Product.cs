@@ -7,7 +7,7 @@ namespace DefineX.Services.ProductAPI.Models
         [Key]
         public int id { get; set; }
         [Required]
-        public string Tittle { get; set; }
+        public string Title { get; set; }
         [Range(1, 1000)]
         public string Description { get; set; }
         public string Type { get; set; }
