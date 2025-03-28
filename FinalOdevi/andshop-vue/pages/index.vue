@@ -191,10 +191,16 @@
         {{ product.name }} - {{ product.categoryName }} - ${{ product.price }}
       </li>
     </ul>
-
+    <div>
+  <h2>Admin Paneli</h2>
+    <div v-for="msg in messages" :key="msg.id">
+      <strong>{{ msg.user }}:</strong> {{ msg.text }}
+    </div>
+    <input v-model="message" placeholder="Mesajınızı yazın..." />
+    <button @click="sendMessage">Gönder</button>
   </div>
-
-
+  </div>
+ 
 </template>
 
 <script>
@@ -204,7 +210,7 @@ import Timer from "../components/widgets/Timer";
 import InstagramArea from "../components/instagram/InstagramArea";
 import BlogItem1 from "~/components/blog/BlogItem1";
 import { mapActions, mapGetters } from "vuex";
-
+import connection from "@/chatService";
 export default {
   name: "Home",
   components: {
@@ -216,6 +222,8 @@ export default {
 
   data() {
     return {
+      message: "",
+      messages: [],
       title: "Home",
       blogItems: [
         {
@@ -340,11 +348,18 @@ export default {
 
   mounted() {
 
-    // For scroll page top for every Route
     window.scrollTo(0, 0);
-
+    connection.on("ReceiveMessage", (user, text) => {
+      this.messages.push({ user, text });
+    });
   },
    methods: {
+    sendMessage() {
+      // Mesajı SignalR ile sunucuya gönder
+      connection.invoke("SendMessage", "Ziyaretçi", this.message)
+        .catch(err => console.error(err));
+      this.message = "";
+    },
         productsArray: async function () {
               await this.fetchProducts();
 

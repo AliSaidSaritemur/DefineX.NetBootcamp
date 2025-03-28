@@ -119,6 +119,13 @@
     "_name": "_07459794"
   },
   {
+    "name": "SignalRMessage",
+    "path": "/SignalRMessage",
+    "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\SignalRMessage.vue",
+    "chunkName": "pages/SignalRMessage",
+    "_name": "_20aca8d5"
+  },
+  {
     "name": "vendor-dashboard",
     "path": "/vendor-dashboard",
     "component": "C:\\\\Users\\\\alisa\\\\Documents\\\\GitHub\\\\DefineX.NetBootcamp\\\\FinalOdevi\\\\andshop-vue\\\\pages\\\\vendor-dashboard\\\\index.vue",

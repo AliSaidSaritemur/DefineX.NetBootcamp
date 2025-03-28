@@ -13,6 +13,10 @@
       {
         "Path": "DefineXWeb\\DefineXWeb.csproj",
         "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj",
+        "Action": "Start"
       }
     ]
   }

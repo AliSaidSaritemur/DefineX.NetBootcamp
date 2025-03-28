@@ -3,36 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\views\\chat\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definexweb\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\areas\\admin\\views\\product\\productedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definexweb\\viewmodels\\variantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\viewmodels\\variantviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\models\\variant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9CDC3C35-14BD-4272-9374-4843F56F6653}|..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\SignalRChat.csproj|c:\\users\\alisa\\downloads\\silinecekindirilenler\\signalrchat-master\\signalrchat-master\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +31,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductAPIController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "RelativeToolTip": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:27:29.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductEdit.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductEdit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T19:28:38.734Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductCreate.cshtml",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAiwFQAAABXAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Chat\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Chat\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Chat\\Index.cshtml*",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Chat\\Index.cshtml*",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-27T19:28:35.962Z",
+              "WhenOpened": "2025-03-27T23:07:40.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\ChatController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T23:06:45.361Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAHsAAAAAAAAAAADgv3YAAAAQAAAAAAAAAA==",
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:28:34.609Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
-              "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAASwBkAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:20:31.321Z",
+              "WhenOpened": "2025-03-27T22:03:38.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
-              "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\IProductRepository.cs",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\appsettings.json",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\appsettings.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T22:41:15.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Program.cs",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:20:28.954Z",
+              "WhenOpened": "2025-03-27T22:07:49.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T22:07:43.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "VariantViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\VariantViewModel.cs",
-              "RelativeDocumentMoniker": "DefineXWeb\\ViewModels\\VariantViewModel.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\ViewModels\\VariantViewModel.cs",
-              "RelativeToolTip": "DefineXWeb\\ViewModels\\VariantViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alisa\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\SilinecekIndirilenler\\SignalRChat-master\\SignalRChat-master\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:18:43.487Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Variant.cs",
-              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Variant.cs",
-              "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Models\\Variant.cs",
-              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Models\\Variant.cs",
-              "RelativeToolTip": "DefineX.Services.ProductAPI\\Models\\Variant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T19:18:37.548Z",
+              "WhenOpened": "2025-03-27T22:03:29.239Z",
               "EditorCaption": ""
             }
           ]

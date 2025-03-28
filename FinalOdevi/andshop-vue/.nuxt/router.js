@@ -21,6 +21,7 @@ const _027fbf2a = () => interopDefault(import('..\\pages\\pharmacy.vue' /* webpa
 const _1b201662 = () => interopDefault(import('..\\pages\\privacy-policy.vue' /* webpackChunkName: "pages/privacy-policy" */))
 const _322a925b = () => interopDefault(import('..\\pages\\register.vue' /* webpackChunkName: "pages/register" */))
 const _07459794 = () => interopDefault(import('..\\pages\\shop\\index.vue' /* webpackChunkName: "pages/shop/index" */))
+const _20aca8d5 = () => interopDefault(import('..\\pages\\SignalRMessage.vue' /* webpackChunkName: "pages/SignalRMessage" */))
 const _1598489b = () => interopDefault(import('..\\pages\\vendor-dashboard\\index.vue' /* webpackChunkName: "pages/vendor-dashboard/index" */))
 const _759aaea1 = () => interopDefault(import('..\\pages\\blog\\blog-2.vue' /* webpackChunkName: "pages/blog/blog-2" */))
 const _75a8c622 = () => interopDefault(import('..\\pages\\blog\\blog-3.vue' /* webpackChunkName: "pages/blog/blog-3" */))
@@ -134,6 +135,10 @@ export const routerOptions = {
     path: "/shop",
     component: _07459794,
     name: "shop"
+  }, {
+    path: "/SignalRMessage",
+    component: _20aca8d5,
+    name: "SignalRMessage"
   }, {
     path: "/vendor-dashboard",
     component: _1598489b,

@@ -34,6 +34,12 @@
                 >
                   <nav>
                     <ul>
+
+                      <li class="has-dropdown">
+
+                     <nuxt-link to="SignalRMessage">SignalR Messaj</nuxt-link>
+                      </li>
+
                       <li class="has-dropdown">
                         <a href="#">Kategoriler <i class="fa fa-angle-down"></i></a>
                         <!-- Sub Menu -->
@@ -53,14 +59,7 @@
                         </ul>
                       </li>
 
-                      <li class="has-dropdown">
-                        <a href="#">Bize Ulaşın <i class="fa fa-angle-down"></i></a>
-                        <!-- Sub Menu -->
-                        <ul class="sub-menu">
-                          <li><nuxt-link to="contact-us">Bize Ulaşın</nuxt-link></li>
-                          
-                        </ul>
-                      </li>
+                     
                        <li class="has-dropdown">
                         <a href="#">Hesabım <i class="fa fa-angle-down"></i></a>
                         <!-- Sub Menu -->

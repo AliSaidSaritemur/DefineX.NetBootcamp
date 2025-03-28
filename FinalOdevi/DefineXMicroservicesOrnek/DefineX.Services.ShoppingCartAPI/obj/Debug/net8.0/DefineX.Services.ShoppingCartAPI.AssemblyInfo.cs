@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DefineX.Services.ShoppingCartAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cf39b1627a1ebd110ad7b072a88e8c6ce01dae6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1bfcc2f19efb9bb3800979608b9a4b0cad8c5769")]
 [assembly: System.Reflection.AssemblyProductAttribute("DefineX.Services.ShoppingCartAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DefineX.Services.ShoppingCartAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
