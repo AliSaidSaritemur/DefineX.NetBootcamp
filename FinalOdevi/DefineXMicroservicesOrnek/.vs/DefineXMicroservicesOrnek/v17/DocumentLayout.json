@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\dbcontexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|solutionrelative:definexweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3E3ACD92-337F-4978-B865-0A841775A5E5}|DefineX.Services.Identity\\DefineX.Services.Identity.csproj|solutionrelative:definex.services.identity\\mainmodule\\account\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A4958B6-7118-4CC1-B38C-FDC1C03802EA}|DefineX.Services.ProductAPI\\DefineX.Services.ProductAPI.csproj|solutionrelative:definex.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C984606-539A-4F09-960A-7230387B37BB}|DefineXWeb\\DefineXWeb.csproj|c:\\users\\alisa\\documents\\github\\definex.netbootcamp\\finalodevi\\definexmicroservicesornek\\definexweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,24 +82,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DefineX.Services.Identity\\DbContexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T11:55:49.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAewBUAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAewBUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-28T11:42:56.831Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "SD.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\SD.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\SD.cs",
@@ -103,12 +120,11 @@
               "RelativeToolTip": "DefineX.Services.Identity\\SD.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAACIAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:38:17.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:38:17.603Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
@@ -116,12 +132,11 @@
               "RelativeToolTip": "DefineX.Services.Identity\\Initializer\\DbInitializer.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAAADwAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:35:38.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:35:38.251Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
@@ -129,12 +144,11 @@
               "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_LoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:28:24.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:28:24.061Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Customer\\Controllers\\HomeController.cs",
@@ -147,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "_AdminLoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
@@ -155,12 +169,11 @@
               "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLoginPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:21:11.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:21:11.845Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
@@ -168,12 +181,11 @@
               "RelativeToolTip": "DefineXWeb\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:20:58.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:20:58.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ProductCreate.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
@@ -181,12 +193,11 @@
               "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Views\\Product\\ProductCreate.cshtml",
               "ViewState": "AgIAAHIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:20:31.285Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:20:31.285Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Controllers\\HomeController.cs",
@@ -194,12 +205,11 @@
               "RelativeToolTip": "DefineXWeb\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:19:21.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:19:21.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "DefineXWeb\\Views\\Home\\Index.cshtml",
@@ -207,12 +217,11 @@
               "RelativeToolTip": "DefineXWeb\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-28T11:19:17.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:19:17.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\Program.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\Program.cs",
@@ -220,25 +229,24 @@
               "RelativeToolTip": "DefineX.Services.Identity\\Program.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAswD4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:13:47.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:13:47.937Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "ProductAPIController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
               "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
               "ToolTip": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
               "RelativeToolTip": "DefineX.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAADkAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T11:09:34.891Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
@@ -246,12 +254,11 @@
               "RelativeToolTip": "DefineX.Services.ProductAPI\\Repository\\ProductRepository.cs",
               "ViewState": "AgIAAIEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:11:46.701Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:11:46.701Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Services\\ProductService.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Services\\ProductService.cs",
@@ -264,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
               "RelativeDocumentMoniker": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
@@ -272,12 +279,11 @@
               "RelativeToolTip": "DefineX.Services.Identity\\MainModule\\Account\\AccountController.cs",
               "ViewState": "AgIAAB8AAAAAAAAAAAAAAO0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:09:35.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:09:35.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -285,12 +291,11 @@
               "RelativeToolTip": "DefineXWeb\\Areas\\Admin\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:10:55.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:10:55.522Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\alisa\\Documents\\GitHub\\DefineX.NetBootcamp\\FinalOdevi\\DefineXMicroservicesOrnek\\DefineXWeb\\Program.cs",
               "RelativeDocumentMoniker": "DefineXWeb\\Program.cs",
@@ -298,8 +303,7 @@
               "RelativeToolTip": "DefineXWeb\\Program.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T11:10:45.729Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T11:10:45.729Z"
             }
           ]
         }

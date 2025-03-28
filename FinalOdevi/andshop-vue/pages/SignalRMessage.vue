@@ -39,8 +39,7 @@
       this.user.name = "Ziyaretçi";
     },
     mounted() {
-      console.log("User Id: ");
-      console.log(this.user.id);
+
       connection.on("ReceiveMessage", (user, text) => {
         this.messages.push({ sender: 'admin', user, text });
       });
@@ -54,8 +53,7 @@
     },
     methods: {
       sendMessage() {
-        console.log("sendMessage");
-        console.log(this.user.id);
+   
         if (this.message.trim() !== "") {
           // Kullanıcıdan mesajı al
           this.messages.push({ sender: 'user', user: this.user.name, text: this.message });

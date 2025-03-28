@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DefineXWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0859f7afca6309b16e8daa5a5b347f40e470e791")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bce91cd7cd516fd230b1f4857a3c3653ffad744b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DefineXWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DefineXWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

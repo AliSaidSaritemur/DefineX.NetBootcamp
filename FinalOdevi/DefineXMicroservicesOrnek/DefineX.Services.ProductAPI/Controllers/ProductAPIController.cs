@@ -23,6 +23,8 @@ namespace DefineX.Services.ProductAPI.Controllers
             try
             {
                 IEnumerable<ProductDto> productDtos = await _productRepository.GetProducts();
+                productDtos.ToList().ForEach(productDto =>
+    productDto.Collection = productDto.Collection?.Select(item => item.ToUpper()).ToArray());
                 _response.Result = productDtos;
             }
             catch (Exception ex)

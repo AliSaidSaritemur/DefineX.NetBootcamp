@@ -185,20 +185,8 @@
     >
       <p class="font-weight-normal">Successfully added to your list</p>
     </b-alert>
-    <!-- Add to Compare / Compare Notification  -->
-      <ul>
-      <li v-for="product in getCompletedProducts" :key="product.productId">
-        {{ product.name }} - {{ product.categoryName }} - ${{ product.price }}
-      </li>
-    </ul>
-    <div>
-  <h2>Admin Paneli</h2>
-    <div v-for="msg in messages" :key="msg.id">
-      <strong>{{ msg.user }}:</strong> {{ msg.text }}
-    </div>
-    <input v-model="message" placeholder="Mesajınızı yazın..." />
-    <button @click="sendMessage">Gönder</button>
-  </div>
+
+    
   </div>
  
 </template>
@@ -371,8 +359,7 @@ export default {
       if (index === -1) this.category.push(i);
     });
   });
-   console.log("Cikti "+ this.category);
-  console.log("Cikti "+ this.products);
+
 },
 ...mapActions("products", ["fetchProducts"]),
     // For Product Tab
